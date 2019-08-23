@@ -4,3 +4,5 @@ Meu primeiro repositório Git
 Novo texto adicionado
 
 Segunda alteração do meu primeiro Git
+
+Primeiro commit do primeiro branch
