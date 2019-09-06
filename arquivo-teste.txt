@@ -1,0 +1,7 @@
+git clone endereço nome-da-pasta
+git add -A #adiciona todas as modificações realizadas
+git commit -m "mensagem"
+git push origin master
+git pull origin master
+git tag -a 2.22 -m "nova versão"
+git push origin --tag
